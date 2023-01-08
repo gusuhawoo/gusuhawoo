@@ -243,7 +243,7 @@ How to reach me **dyrnxld@naver.com** - ⚡ Fun fact **Tamastudy!!!!**
 </p> -->
 <br /><br />
 
-<p>
+<p align="center">
   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=gusuhawoo&show_icons=true&locale=en&layout=compact"
@@ -251,7 +251,7 @@ How to reach me **dyrnxld@naver.com** - ⚡ Fun fact **Tamastudy!!!!**
   />
 </p>
 
-<p>
+<p align="center">
   &nbsp;<img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=gusuhawoo&show_icons=true&locale=en"
@@ -259,7 +259,7 @@ How to reach me **dyrnxld@naver.com** - ⚡ Fun fact **Tamastudy!!!!**
   />
 </p>
 
-<p>
+<p align="center">
   <img
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=gusuhawoo&"
