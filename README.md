@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm suha</h1>
 <h3 align="center">A passionate frontend developer from Korea</h3>
 
-<p align="left">
+<p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=gusuhawoo&label=Profile%20views&color=0e75b6&style=flat"
     alt="gusuhawoo"
   />
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
       src="https://github-profile-trophy.vercel.app/?username=gusuhawoo"
@@ -16,7 +16,7 @@
   /></a>
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://twitter.com/" target="blank"
     ><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge"
@@ -27,11 +27,11 @@
 - 🌱 I’m currently learning **Javascript** - 💬 Ask me about **react, vue** - 📫
 How to reach me **dyrnxld@naver.com** - ⚡ Fun fact **Tamastudy!!!!**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"></p>
+<h3 align="center">Connect with me:</h3>
+<p align="center"></p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
