@@ -230,7 +230,7 @@ How to reach me **dyrnxld@naver.com** - ⚡ Fun fact **Tamastudy!!!!**
   </a>
 </p>
 
-<h3 align="left">Support:</h3>
+<!-- <h3 align="left">Support:</h3>
 <p>
   <a href="https://www.buymeacoffee.com/suha">
     <img
@@ -240,7 +240,7 @@ How to reach me **dyrnxld@naver.com** - ⚡ Fun fact **Tamastudy!!!!**
       width="210"
       alt="suha"
   /></a>
-</p>
+</p> -->
 <br /><br />
 
 <p>
