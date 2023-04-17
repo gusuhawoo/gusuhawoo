@@ -25,7 +25,7 @@
 </p>
 
 - 🌱 I’m currently learning **Javascript** - 💬 Ask me about **react, vue** - 📫
-How to reach me **dyrnxld@naver.com** - ⚡ Fun fact **Tamastudy!!!!**
+How to reach me **gusuhawoo@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center"></p>
